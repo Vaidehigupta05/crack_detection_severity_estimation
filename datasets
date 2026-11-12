@@ -1,0 +1,7 @@
+This project integrates three public Kaggle datasets:
+ Dataset 1: [geadalfa/cracked-non-cracked-surface-datasets](https://www.kaggle.com/datasets/geadalfa/cracked-non-cracked-surface-datasets) (Used for binary classification training - ~96K images).
+ Dataset 2: [aravindnagarajan/crack-segmentation-dataset](https://www.kaggle.com/datasets/aravindnagarajan/crack-segmentation-dataset) (Used for pixel-level image/mask segmentation pairs).
+ Dataset 3: [arunrk7/surface-crack-detection](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection) (Balanced positive/negative validation sets).
+
+Automated Download via KaggleHub
+The code automatically downloads and sets up these datasets via `kagglehub`. Ensure you have your Kaggle API credentials configured if running locally, or execute inside a Google Colab runtime.
