@@ -1,3 +1,29 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Kaggle credentials
+kaggle.json
+**/kaggle.json
+
+# Dataset files
+datasets/
+*.zip
+
+# Jupyter and Colab checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
