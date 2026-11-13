@@ -100,7 +100,7 @@ Predicted binary masks are post-processed to extract morphological properties an
 
 ---
 
-## 📊 Sample Results & Screenshots
+## Sample Results & Screenshots
 
 End-to-end Concrete Crack Analyzer outputs (including the original image, predicted binary mask, and centerline localization overlay) are saved in `screenshots/`:
 
