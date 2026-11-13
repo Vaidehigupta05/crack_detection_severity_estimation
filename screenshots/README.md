@@ -1,10 +1,17 @@
 # Project Screenshots
 
-This directory contains screenshots demonstrating the working and results of the Surface Crack Detection and Segmentation project.
+This directory contains screenshots demonstrating the outputs of the Surface Crack Detection and Segmentation project.
 
-Screenshots will include:
-- Dataset samples.
-- Model training and evaluation.
-- Crack classification predictions.
-- Segmentation masks.
-- Final crack detection visualizations.
+## Available Results
+
+The current screenshots demonstrate:
+
+- Original concrete surface images.
+- Predicted binary crack segmentation masks.
+- Crack localization and centerline visualization.
+- Quantitative crack measurements, including area, length, and width.
+- Estimated crack severity.
+
+## Future Additions
+
+Additional screenshots of dataset samples, model training, and evaluation results may be added as the project documentation is expanded.
