@@ -121,7 +121,7 @@ End-to-end inspection workflow on the live [Concrete Crack Detection System](htt
 ### 1. Image Upload & Classification Probabilities
 *Upload a concrete surface image and run CNN classification (`Non-Cracked Probability: 0.0001` | `Cracked Probability: 0.9999`)*[cite: 7]:
 
-![Streamlit Upload and Classification](screenshots/streamlit_1.jpg)[cite: 7]
+![Streamlit Upload and Classification](screenshots/streamlit_1.png)[cite: 7]
 
 ### 2. U-Net Probability Map & Binary Segmentation Mask
 *Pixel-level probability map and extracted binary segmentation mask confirming crack detection*[cite: 8]:
@@ -131,7 +131,7 @@ End-to-end inspection workflow on the live [Concrete Crack Detection System](htt
 ### 3. Crack Overlay, Measurements & Severity Assessment
 *Detected crack highlighted in red alongside quantitative measurements (`Area: 2596 px` | `Length: 281.00 px` | `Avg Width: 8.42 px` | `Max Width: 21.54 px`) and **High Severity** classification*[cite: 9]:
 
-![Crack Overlay and Severity Measurements](screenshots/streamlit_3.jpg)[cite: 9]
+![Crack Overlay and Severity Measurements](screenshots/streamlit_3.png)[cite: 9]
 
 > *Note: Preliminary inspection assistance only. Does not replace professional structural assessment.*
 
