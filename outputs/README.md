@@ -32,8 +32,8 @@ Screenshots capturing the end-to-end inspection workflow on the live [Concrete C
 
 | Screenshot File | Pipeline Stage | Key Output Details |
 | :--- | :--- | :--- |
-| **[`streamlit_1.jpg`](../screenshots/streamlit_1.png)** | Upload & CNN Classification | `images.jpg` — `Non-Cracked Probability: 0.0001` \| `Cracked Probability: 0.9999` |
+| **[`streamlit_1.png`](../screenshots/streamlit_1.png)** | Upload & CNN Classification | `images.jpg` — `Non-Cracked Probability: 0.0001` \| `Cracked Probability: 0.9999` |
 | **[`streamlit_2.png`](../screenshots/streamlit_2.png)** | U-Net Segmentation | **U-Net Probability Map**, `"Crack detected!"` confirmation, and binary **Crack Segmentation Mask** |
-| **[`streamlit_3.jpg`](../screenshots/streamlit_3.png)** | Overlay & Severity Assessment | **Cracks Highlighted in Red** — `Area: 2596 px` \| `Length: 281.00 px` \| `Avg Width: 8.42 px` \| `Max Width: 21.54 px` \| **High Severity** |
+| **[`streamlit_3.png`](../screenshots/streamlit_3.png)** | Overlay & Severity Assessment | **Cracks Highlighted in Red** — `Area: 2596 px` \| `Length: 281.00 px` \| `Avg Width: 8.42 px` \| `Max Width: 21.54 px` \| **High Severity** |
 
 > *Note: Outputs are intended for preliminary inspection assistance only and do not replace professional structural assessment.*
